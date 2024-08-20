@@ -1,4 +1,4 @@
-# my_contacts
+# This App is Basic App to just for fun using many animations
 
 A new Flutter project.
 
